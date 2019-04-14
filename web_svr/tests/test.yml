@@ -8,3 +8,5 @@
       with_items:
         - main
         - unit_test
+        - main
+        - unit_test
