@@ -11,3 +11,4 @@ Software Design 用のインフラCIサンプルリポジトリです。
 
 [https://www.katacoda.com/irixjp/scenarios/ansible-playbook-ci-101](https://www.katacoda.com/irixjp/scenarios/ansible-playbook-ci-101)
 
+# hoge
